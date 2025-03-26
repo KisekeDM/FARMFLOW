@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.FARMFLOW" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/tropicalteal</item>
+        <item name="colorPrimaryVariant">@color/darkblue</item>
+        <item name="colorSecondary">@color/pink</item>
+        <item name="colorSecondaryVariant">@color/pink</item>
+    </style>
+</resources>

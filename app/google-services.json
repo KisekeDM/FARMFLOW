@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269070216838",
+    "project_id": "farmflow-427c7",
+    "storage_bucket": "farmflow-427c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269070216838:android:ec3ac7bdc31eade4ae2b07",
+        "android_client_info": {
+          "package_name": "com.example.farmflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM_2aIhfMz2pKC3qZrG5H0kIsAZxR3eWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
